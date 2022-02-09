@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM fedora:latest
 
 COPY bash.bashrc /etc/
 
